@@ -13,10 +13,10 @@ Please note the [instructions for participation](https://se2026.inf.unibe.ch/en/
 
 ## Motivation
 
-Like its predecessors, the 24th Automotive Software Engineering Workshop focuses on the challenges of software development in the automotive sector and the appropriate methods, techniques, and tools to address them.
-With increasingly connected vehicles, modern driver assistance functions and the ongoing challenges of highly and fully automated driving, automotive software is of central importance.
-The workshop will discuss current challenges and new approaches in automotive software engineering. The focus will be on software-defined vehicles, the use of generative and embedded AI, continuous software updates, and new approaches to end-to-end assurance of safety, security and compliance. In addition to mature research findings, visionary contributions, experience reports, and early-stage work are also expressly welcome.
-The workshop provides a forum for researchers and practitioners to discuss current challenges and solution approaches in automotive software engineering. The workshop will focus on the use of agile methods in regulated environments. Contributions from all areas of software development for modern vehicles are explicitly invited.
+Like its predecessors, the 24th Automotive Software Engineering Workshop (ASE'27) focuses on the challenges of software development in the automotive sector and the appropriate methods, techniques, and tools to address them.
+As vehicles become increasingly connected, modern driver assistance functions grow more complex, and the challenges of highly and fully automated driving continue, automotive software is increasingly central.
+The workshop will discuss current challenges and new approaches in automotive software engineering. The focus will be on software-defined vehicles, the use of generative and embedded AI, continuous software updates, and new approaches to end-to-end assurance of safety, security and compliance. In addition to mature research findings, we also welcome visionary contributions, experience reports, and early-stage work.
+The workshop provides a forum for researchers and practitioners to discuss current challenges and solution approaches in automotive software engineering. The workshop will focus on using agile methods in regulated environments. Contributions from all areas of modern vehicle software development are explicitly invited.
 {: style="text-align: justify"}
 
 ## Goals
