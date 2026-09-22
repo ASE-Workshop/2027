@@ -24,9 +24,9 @@ Examples of topics include, but are not limited to:
 - Open research challenges and roadmaps for automotive software engineering
 - Industrial experience reports, case studies, and lessons learned
 
-Submissions (6–12 pages) are to be made via the conference management system EasyChair using the following [link](https://easychair.org/conferences/?conf=ase26). 
+Submissions (6-12 pages) are to be made via the conference management system EasyChair using the following [link](https://easychair.org/conferences/?conf=ase27). 
 
-__Important dates__ (all AoE)\
+__Important dates__ (all AoE)
 
 Submission deadline: October 21, 2026\
 Notifications: November 25, 2026\
