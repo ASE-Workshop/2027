@@ -8,7 +8,7 @@ Welcome to the 24th Workshop on Automotive Software Engineering!
 [Software Engineering 2027](https://se2027.cs.tu-dortmund.de) - 22.02.2027 - Dortmund, Germany
 {: style="color:gray; font-size: 130%; text-align: center;"}
 
-Please note the [instructions for participation](https://se2026.inf.unibe.ch/en/attendance/)
+<!--Please note the [instructions for participation](https://se2026.inf.unibe.ch/en/attendance/) -->
 {: style="color:gray; font-size: 130%; text-align: center;"}
 
 ## Motivation
